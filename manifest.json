@@ -3,7 +3,7 @@
   "name": "Create React App Sample",
   "short_name": "React App",
   "start_url": "/pwa",
-  "scope": "https://roninbar.github.io/pwa",
+  "scope": "https://roninbar.github.io",
   "icons": [
     {
       "src": "favicon.ico",
