@@ -2,8 +2,8 @@
   "id": "pwa",
   "name": "Create React App Sample",
   "short_name": "React App",
-  "start_url": "/pwa",
-  "scope": "/pwa",
+  "start_url": ".",
+  "scope": "/",
   "icons": [
     {
       "src": "favicon.ico",
